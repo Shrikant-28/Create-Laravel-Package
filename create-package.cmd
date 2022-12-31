@@ -1,6 +1,6 @@
 @echo off
 echo Please input in lowercase.
-set /p package_name=Enter package name: 
+set /p package_name=Enter package name(Ex. reports): 
 echo Generating %package_name% package
 
 color 0a
